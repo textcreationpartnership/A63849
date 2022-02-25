@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written to a friend in Wilts upon occasion of a late ridiculous pamphlet, wherein was inserted a pretended prophecie of Thomas Becket's, &amp;c.</title>
+            <author>Tully, T. (Thomas), 1620-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63849</idno>
+            <idno type="STC">Wing T3246</idno>
+            <idno type="STC">ESTC R219444</idno>
+            <idno type="EEBO-CITATION">99830912</idno>
+            <idno type="PROQUEST">99830912</idno>
+            <idno type="VID">35374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2084:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written to a friend in Wilts upon occasion of a late ridiculous pamphlet, wherein was inserted a pretended prophecie of Thomas Becket's, &amp;c.</title>
+                  <author>Tully, T. (Thomas), 1620-1676.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.D.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom. 1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.T. (i.e. Thomas Tully).</note>
+                  <note>A reply to: The Prophecie of Thomas Becket, Arch-Bishop of Canterbury in the reign of King Henry the second.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thomas, Saint, --  à Becket, 1118?-1170 --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35374:1" rendition="simple:additions"/>
+            <pb facs="tcp:35374:1" rendition="simple:additions"/>
+            <p>A LETTER Written to a Friend in <hi>WILTS,</hi> Upon occaſion of a late Ridiculous PAMPHLET, Wherein was inſerted a pretended PROPHECIE OF <hi>THOMAS BECKET'S,</hi> &amp;c.</p>
+            <q xml:lang="grc">
+               <bibl>ANTONIN.</bibl> 
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. D. Anno Dom.</hi> 1666.</p>
+            <pb facs="tcp:35374:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:35374:2"/>
+            <head>To My Worthily Honoured Friend T. G. Of A. <hi>Eſquire.</hi>
+            </head>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Stoicks have rank'd all the concerns of man under theſe two heads, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſuch things as are under the juriſdiction and command of his Will, and ſuch as are not. In the former every Virtuo<g ref="char:EOLhyphen"/>ſo of the Sect fancied himſelf in the Poets Ironie to be <hi>uno minor Jove,</hi> an Imperial Mo<g ref="char:EOLhyphen"/>narch, and his Throne but one ſtep below <hi>Jupiters,</hi> his Will his Scepter, and his Paſſi<g ref="char:EOLhyphen"/>ons his Empire. And whoever had not ad<g ref="char:EOLhyphen"/>vanc'd unto this Soveraignty within himſelf, was to be no Saint in their Calendar, no King in their Chronicle. For the latter (I mean the various rencontres and occurrents of life, which they never challeng'd for any Subjects of their Kingdome, but honeſtly reſigned them
+<pb n="2" facs="tcp:35374:3"/> to their reſpective Lords and Maſters, eſpeci<g ref="char:EOLhyphen"/>ally to the Lord Paramount of all) they ſeem'd to have verie little or no concern, en<g ref="char:EOLhyphen"/>joyning their Diſciples to lye with as much eaſe and ſatisfaction in <hi>Phalaris</hi>'s Bull, as on a Bed of Down. Now, Sir, though I look upon theſe Stoicks as meer Hectors in Pra<g ref="char:EOLhyphen"/>ctical Philoſophie, yet ſo far we agree, that men ought to be ſevere and curious in the me<g ref="char:EOLhyphen"/>nage of what is any way in their Power, to <hi>provide honeſt things in the ſight of God and Man.</hi> But as for ſuch events as no Wiſdom or Virtue of theirs can hinder, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to be content with what comes next, and in all to act and ſuffer <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as becomes men of Reaſon and Magnanimitie, or rather as becomes the ſpirit of a Chriſtian.</p>
+            <p>Sir, the Solemnitie of this Preface may poſſibly invite you to ſome higher expectations then I have deſign'd it for. The truth is, I ſhould be heartily aſham'd to give you the trouble that follows, but for ſome more urgent (reaſons I cannot call them, but) occaſions then I could at firſt Imagine, and which I ſhall freely depoſite in your boſome at our next meeting.</p>
+            <pb n="3" facs="tcp:35374:3"/>
+            <p> We live, <hi>Sir,</hi> in a world that lies in folly and wickedneſs, and though the Grace of God (without which we are nothing) may ſecure us from ſcandal, or any deſerved blame from man, yet it does not exempt us from ma<g ref="char:EOLhyphen"/>lice, or miſtakes in others, nor from the ſtroke of a fooliſh or reproachful Tongue. The laſt time I had the contentment to ſee you, you were pleaſed to mention a late <hi>ſenſ<g ref="char:EOLhyphen"/>leſs and ridiculous Pamphlet,</hi> wherein the moſt accompliſhed Publiſher ('tis a pity he con<g ref="char:EOLhyphen"/>ceal'd his Name, otherwiſe 'tis like enough, it might have made <hi>noiſe</hi> ſufficient:) He, I ſay, has lately Printed a certain Prophecy preten<g ref="char:EOLhyphen"/>ded to be <hi>Thomas Beckets,</hi> where after ſome very irreverent and rudely ſimple Reflecti<g ref="char:EOLhyphen"/>ons upon divers Eminent and Worthy Per<g ref="char:EOLhyphen"/>ſons (that could no way become <hi>his quill</hi> to mention) He quotes a Letter of mine writ<g ref="char:EOLhyphen"/>ten to a private Friend (Mr. <hi>Y.)</hi> a grave Di<g ref="char:EOLhyphen"/>vine in the Country, and a conſtant honeſt Member of the Church of <hi>England:</hi> where alſo to the high uncivility of naming Me upon that occaſion, he thought fit to ſuper-add this either haſty or impudent untruth, that I (a<g ref="char:EOLhyphen"/>mongſt ſo many of worthier names) delivered
+<pb n="4" facs="tcp:35374:4"/> as <hi>my</hi> own <hi>judgment</hi> what he has plac'd in the Margin of that Prophecy. I may poſſibly know the firſt Letter of the Publiſhers Name (with its <hi>aliàs,</hi> if it have one) but out of my re<g ref="char:EOLhyphen"/>ſpect to his ſuppos'd Profeſſion, I think not fit to mention my conjectures of it in this paper. Onely Sir, I have received ſuch a Character of him I take to be the man, from ſome of un<g ref="char:EOLhyphen"/>queſtionable credit, that know him very well, as renders him very capable of doing ſuch or far nobler exploits, whereof he may in due time give ſome account to his Superiors.</p>
+            <p>But <hi>Sir,</hi> to preſent you with a true and plain account of the whole matter on my part, thus it was. A little after Chriſtmas (as I remember) that pretended Propheſie was brought from <hi>Abingdon</hi> to this Town, and ſounding in the general ſuch a Harmony to the genius of the Time, it preſently became both the Muſick and diſcourſe of all, not as the Publiſhers Ingenuity has phraſed it, <hi>the unanimous reſolve of all—</hi>as if forſooth a <hi>Convocation</hi> had been call'd about it: This pretended Prophecy was, I confeſs, ſent by me incloſed in a Letter as the Newes of the Town to Mr. <hi>Yeates,</hi> together with a ſmall key
+<pb n="5" facs="tcp:35374:4"/> to the Text in the Margin, which I borrowed for that occaſion of the common Diſcourſe; and indeed, excepting but one clauſe (for the barbarous Latine in another, is not conſi<g ref="char:EOLhyphen"/>derable) I ſee nothing in the Prophecy of ſo much depth, as to need a Delian Diver (of which ſort I am far from being one my ſelf) to fetch it up. The Comment Sir was none of mine more then the bare Tranſcribing; and this is all I am reſpon<g ref="char:EOLhyphen"/>ſible for: the Ingenious Publiſher muſt an<g ref="char:EOLhyphen"/>ſwer for the reſt. So that if you will have the ſtate of the caſe laid in ſhort before you, you know well enough it will amount to this concluſion; I wrote a Letter to a Friend, wherein I inclos'd a piece of innocent Newes, generally diſcourſed off, and receiv'd with much ſeeming contentment by all, and the Publiſher thought fit, in the depth of his wiſ<g ref="char:EOLhyphen"/>dom, to give it Preſs<g ref="char:punc">▪</g>mony, that ſo it might march along with him in his hungry (if not worſe) deſign, <hi>for the comfort and ſatisfaction of</hi> 
+               <note place="margin">His own words.</note> 
+               <hi>all his Majeſties loving Subjects.</hi> Now Sir, to this day, I am ſo dull of apprehenſion, as (after all my pains and curioſity of reſearch) not to underſtand where lies my fault. For as
+<pb n="6" facs="tcp:35374:5"/> to the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I grant it was in my power to write, or not, to ſend harmleſs (nay generally applauded) News, or not; and ſo it is, and has been in the power of worthier men then my ſelf, who yet have not been afraid to uſe their liberty for fear of a ſmall <hi>free-boter</hi> in the way, that might poſſibly make prize of the frait. As for the taking and expoſing of it to open Port-ſale, with a flouriſh of foolery and non<g ref="char:EOLhyphen"/>ſenſe into the bargain, I take my ſelf to be no way concern'd in that, <hi>ipſe viderit.</hi>
+            </p>
+            <p>Sir, I muſt again profeſs to you my ſhame, that I ſhould <hi>cauſam dicere</hi> in ſuch a very trifle, in which I have no ground of doubt, but that beſides your ſelf, I have many worthy and readie compurgators, whoſe quality, judgement, and honeſty, are my ſuffici<g ref="char:EOLhyphen"/>ent protection againſt ſuch a <hi>nothing</hi> as this. Neither is it that I fancy my name (which yet ſhould be valuable to my ſelf) of any ſuch con<g ref="char:EOLhyphen"/>ſideration, as that you, or any other of my worthy Frinds ſhould be much concern'd in its defence. But ſeeing ſo many other both greater &amp; better <hi>names</hi> embarqu'd in the ſame paſſive contumely, I hope I may have leave to uſe this Letter of Repriſal; and ſo enough (if not too much) of that.</p>
+            <pb n="7" facs="tcp:35374:5"/>
+            <p> As for my own Judgment of that, or any other Prophecies of the like nature, I ſhall briefly and freely impart it to you thus; I deny not</p>
+            <p>1. But that perſons of little or no acquain<g ref="char:EOLhyphen"/>tance with the Spirit of Truth and Holineſs may yet be endued with a Spirit of Propheſie. Thus was <hi>Balaam</hi> who <hi>loved the wages of ini<g ref="char:EOLhyphen"/>quitie,</hi> a man whoſe <hi>eyes were open</hi> (as he ſpeakes of himſelf) enabled (amongſt o<g ref="char:EOLhyphen"/>ther leſs concernments) to point unto the <hi>Star</hi> of <hi>Jacob,</hi> to Chriſt himſelf. And I have no cauſe to doubt of the ſame <hi>influxus Pro<g ref="char:EOLhyphen"/>pheticus</hi> (or Prophetical Spirit) in the old Heathen Sybils, ſome of which you know are quoted by <hi>Virgil,</hi> and their fam'd <hi>Acroſticks</hi> mention'd in the general by <hi>Cicero</hi> in his Books of Divination, and particularly ſet down by <hi>Euſebius,</hi> nay their Authority urged <hi>ad Homi<g ref="char:EOLhyphen"/>nes</hi> 
+               <note place="margin">De Vita Conſt.</note> againſt the Infidel Heathens by ſeveral of the Primitive (eſpecially of the Greek) Fa<g ref="char:EOLhyphen"/>thers. You have their Poems and Propheſies compil'd in this laſt Age into one Volume by <hi>Opſopoeus,</hi> though (as he complains himſelf) with ſeveral juſtlie ſuſpected Interpolations and Corruptions, which may paſs either
+<pb n="8" facs="tcp:35374:6"/> amongſt the <hi>piae fraudes,</hi> or ſtrong Credulities, or ſome other ordinary misfortunes of times and perſons, from which no age, and perhaps but few of the more eminent elder Writings of Religion have been free. But that ſuch Prophecies there were, and that they deli<g ref="char:EOLhyphen"/>ver'd high ones of Chriſt himſelf, I ſee no cauſe to queſtion, with the good leave of an Excellent and Learned Perſon, who has ar<g ref="char:EOLhyphen"/>gued the contrarie, but upon ſuch grounds as I am confident his great Abilities had not ex<g ref="char:EOLhyphen"/>actly weigh'd, and which are ſufficiently re<g ref="char:EOLhyphen"/>futed by our Learned <hi>Montague</hi> in his <hi>Appa<g ref="char:EOLhyphen"/>ratus.</hi> And the reaſon is plainly and briefly this, becauſe the Spirit of Propheſie is not <hi>gratia gratum faciens,</hi> but <hi>gratis data</hi> (as the Schools have phras'd it,) conferr'd ſometimes upon ſuch as neither well underſtand, nor be any way ſuitably affected with their own praedictions: and it is I muſt confeſs quae<g ref="char:EOLhyphen"/>ſtionable to me, whether ſuch Revelations of <hi>the way, the truth, and the life,</hi> though ſomewhat dark and enigmatical to the Gen<g ref="char:EOLhyphen"/>tile World of old, and thoſe advantages which are (though more remotely) in the power of the Heathen world to make uſe of
+<pb n="9" facs="tcp:35374:6"/> now by their actual, or <hi>poſſible</hi> commerce with Chriſtendome, will totally acquit them in the Day of Judgement from a <hi>poſitive Infide<g ref="char:EOLhyphen"/>lity,</hi> ſuch at leaſt <hi>indirectly</hi> and by juſt <hi>inter<g ref="char:EOLhyphen"/>pretation:</hi> ſeeing it is not ignorance which ex<g ref="char:EOLhyphen"/>cuſes, but that which is abſolutely invincible, nor is it a ſufficient diſcharge to any man from his dutie that he had not the promulga<g ref="char:EOLhyphen"/>tion of the Law, unleſs upon the uſe of all the means that were morally poſſible he yet re<g ref="char:EOLhyphen"/>mains in ignorance that ſuch a Law there is. But I find my ſelf on a ſudden (when I thought I had been coaſting along the ſhore) in a wide working Sea, 'tis time for me to make to Land again: for though it were no impoſſibilitie to enlarge into a Volume upon this Theme, and that which occaſion'd it, yet I muſt remember I am writing a Let<g ref="char:EOLhyphen"/>ter, and that we may farther diſcourſe it, when you pleaſe and God ſhall permit.</p>
+            <p>Nor 2. do I queſtion but even ſince the great infuſion of the Holy Ghoſt upon the Apoſtolique times, men eminent for Sanctity and Holineſs of Life, may be inſpir'd with power to foretel ſome things to come. For what wonder if they who converſe ſo much
+<pb n="10" facs="tcp:35374:7"/> with Heaven, and lean as it were with Saint <hi>John</hi> in the Boſome of Chriſt, be ſometimes admitted to his open Breſt? The examples I confeſs in no Age after that of the Apoſtles are numerous, nor is there any ſuch viſible neceſſity of Prophetical ſpirits ſince, as then, and in the general (and almoſt continued) great Apoſtacies under the Law. Beſides the gifts of the ſpirit are his own, and he diſpenſes them as he pleaſes. However I could furniſh you (though I believe your own indefatiga<g ref="char:EOLhyphen"/>ble reading may ſave me the labour) with ſe<g ref="char:EOLhyphen"/>veral inſtances in ſome few later Centuries of unqueſtionable reputation. But as for o<g ref="char:EOLhyphen"/>ther vagrant Praedictions which flye about a<g ref="char:EOLhyphen"/>mong the Vulgar, I look upon the moſt as poor eaſie cheats and meer deſignes, (though of ſeveral complexions) and I think it were no difficult matter for a man of ordinarie parts to make twenty ſuch in a day: for either (pardon the ſoloeciſme) they are made <hi>poſt fa<g ref="char:EOLhyphen"/>ctum,</hi> and ſo are not Praedictions, but Hiſto<g ref="char:EOLhyphen"/>ries, (of which ſort no doubt the world is full) or they are <hi>ſagittae volantes in tenebris,</hi> arrows ſhot at futuritie upon adventure, which flying in the dark may be thought to fall whither
+<pb n="11" facs="tcp:35374:7"/> they were never directed, unleſs out of a <hi>de<g ref="char:EOLhyphen"/>ceitful Bow.</hi>
+            </p>
+            <p>
+               <hi>Barclay</hi> (as I remember) in his <hi>Icon Animo<g ref="char:EOLhyphen"/>rum,</hi> is very peremptory in his Character of the <hi>Engliſh</hi> Genius, <hi>Gens Anglorum ſemper de<g ref="char:EOLhyphen"/>dita Prophetiis,</hi> that we are great admirers of Prophecies, he means it I ſuppoſe of the com<g ref="char:EOLhyphen"/>mon ſort. Perhaps he had ſeen or heard of an Act of Parliament in <hi>Edw.</hi> the Sixth's time, which looks ſeverely upon that piece of curi<g ref="char:EOLhyphen"/>oſity, and thence poſſibly took the meaſures of his conjecture, and for my part, I intend no petition for the Abrogation of that Law. <hi>Baronius</hi> ad <hi>ann.</hi> 178. tells us of <hi>Marcus Au<g ref="char:EOLhyphen"/>relius</hi> the Emperour, that he baniſhed <hi>(rele<g ref="char:EOLhyphen"/>gavit in Inſulam)</hi> one that had foretold the Tyranny of the Rebel <hi>Caſſius,</hi> and withall made a Law (as he quotes it out of <hi>Modeſti<g ref="char:EOLhyphen"/>nus)</hi> that all ſuch Prophets ſhould expect the ſame puniſhment, <hi>Qui aliquid facerent quo le<g ref="char:EOLhyphen"/>ves hominum animi ſuperſtitione numinis terre<g ref="char:EOLhyphen"/>rentur,</hi> deſigning (as he thinks) eſpecially the Chriſtians: which if it were ſo, the chief ground of his miſtake, was no doubt his mi<g ref="char:EOLhyphen"/>ſery; but, ſetting that aſide, the Law might be rational. For experience ſufficiently in<g ref="char:EOLhyphen"/>forms
+<pb n="12" facs="tcp:35374:8"/> us how the doting humour that raigns among the vulgar upon theſe humane (and commonly deſign'd) predictions, takes them off from the nobler and more Chriſtian Con<g ref="char:EOLhyphen"/>templations of their Duty both to God and man. I have often wonder'd to obſerve men that my Charity bids me hope are Pious, and that are otherwiſe learned and ſober, ſo ſick of this diſeaſe.</p>
+            <p>For the Scriptural Prophecies, which are either known or handſomely ſuppos'd to have had their accompliſhment already, we have more cauſe to applaud, then condemn their Induſtry, who have rationally attempted to give them more light to the world; 'tis a pity if the clouds and miſts which vaile the face of humane Story and Chronology, have in any circumſtance injur'd the ſucceſs, and ſet lear<g ref="char:EOLhyphen"/>ned Brethren as well by the ears, as the ton<g ref="char:EOLhyphen"/>gues, together in the dark. But as for the reſt, that are yet but in the womb of Hiſtory, (or Providence if you pleaſe) the time of their Birth being ſo very uncertain; if men will needs be Godfathers, me thinks they might have patience till the Child be born, and not by their haſty confidence force it out into the
+<pb n="13" facs="tcp:35374:8"/> world before its time. I am not cenſuring the modeſt or ingenuous conjectures of men in theſe caſes, but in our converſe with the Bi<g ref="char:EOLhyphen"/>ble, I wiſh the humour were not ſo common of beginning at the wrong end, and ſo conning the <hi>Revelation</hi> before <hi>Geneſis,</hi> rolling the Pro<g ref="char:EOLhyphen"/>phetical Scriptures with delight under our tongues, but either ſpitting out, or haſtily ſwallowing unchew'd the plain and practical dictates of the Holy Ghoſt. Nor is our modeſty here a ſlur upon the darker Oracles of God, as if they were delivered in vain. <hi>He hath ſhewed thee, O man,</hi> ſays the Prophet, <hi>what is good;</hi> he has writ thy duty with a Sun<g ref="char:EOLhyphen"/>beam, and if in ſome more ſpeculative con<g ref="char:EOLhyphen"/>cerns the cloud dwells upon the Sacred Ta<g ref="char:EOLhyphen"/>bernacle, yet even there alſo, <hi>the glory of the Lord</hi> appears. I bleſs God for Saint <hi>Johns</hi> Apocalypſe, as well as for the more lightſome Scriptures, and I hope receive benefit by its darkeſt pieces, though I cannot apprehend with one of our Country-men, that in this, or the other paſſage, ſuch or ſuch an <hi>Engliſh</hi> great Lord (by Name) is deſign'd. The num<g ref="char:EOLhyphen"/>ber 666, which of late has made ſo much noiſe in the world, and is by many lookt upon as
+<pb n="14" facs="tcp:35374:9"/> fatal to this preſent year, I meet with in that Sacred Book, but whether it muſt needs be applied to the courſe of time, &amp; if ſo, whether to our computation of the year, I have neither the skill nor confidence to aſſert. However, I cannot but applaud the very ingenious La<g ref="char:EOLhyphen"/>bours of ſundry late Writers upon that Pro<g ref="char:EOLhyphen"/>phetical number, eſpecially thoſe of Mr. <hi>Potter,</hi> and of a nameleſs Author in a ſmall Book of his Printed <hi>ann.</hi> 662. Intituled, <hi>Chriſt and An<g ref="char:EOLhyphen"/>tichriſt, or</hi> 666 <hi>multiplyed by</hi> 2½, who has trod a different path from all others I know off in his new <hi>Algebra of two years, and</hi> ½, in both which, (though I dare not ſay there is demon<g ref="char:EOLhyphen"/>ſtration enough in either to ſatisfie the judg<g ref="char:EOLhyphen"/>ment, yet) certainly there is curioſity enough to entertain a Learned Fancy with delight.</p>
+            <p>But <hi>Sir,</hi> neither the Prophecie which gave occaſion to this Letter (nor any of the like na<g ref="char:EOLhyphen"/>ture) muſt think to come in competition with thoſe that own no other but the <hi>Father of Lights</hi> for theirs.</p>
+            <p>For the pretended. Author of the former, or any Prophecie of his, I have but little to ſay. Our Chronicle has given us ſuch an ac<g ref="char:EOLhyphen"/>count of him, as that (excepting his zeal for
+<pb n="15" facs="tcp:35374:9"/> his <hi>Holineſs)</hi> I can find no traces of extra<g ref="char:EOLhyphen"/>ordinarie Sanctitie, as might entitle him to the gift of Prophecie, and upon what other ac<g ref="char:EOLhyphen"/>count he ſhould be capacitated for it, I know not.</p>
+            <p>But, <hi>Sir,</hi> we have a <hi>more ſure Word of Pro<g ref="char:EOLhyphen"/>phecie, unto which we ſhall do well if we take heed,</hi> without regard to idle Dreams, or ſtudied Deluſions, or humane pretended Revelations whatſoever. This every where acquaints us that if we <hi>Repent,</hi> iniquitie ſhall not be our ruine, but if we ſhall <hi>ſtill</hi> do wickedly, the juſt God can <hi>Plague us yet ſeaven times more for our Abominations,</hi> 'til we know that the <hi>Moſt High Ruleth in the Kingdomes of Men,</hi> and that he will not be mocked or brav'd by Worms of the Earth. And had we ſtore of ſuch examples as Your Self, <hi>Sir,</hi> who think it no ſoleciſm to be Great and Good, then why might not <hi>Davids</hi> Motto be Englands too, <hi>Quem Timebo? Of whom ſhall I be afraid?</hi> But as <hi>Plinie</hi> minds me, <hi>Et hoc amantis eſt parce laudare:</hi> I ſhall releaſe your modeſtie, and diſcharge your trouble from this Paper with one word, which I dare ſay you will own for the Child
+<pb n="16" facs="tcp:35374:10"/> not of my Tongue, but of my Heart, namely, that I am by a Thouſand Obligations, but by none more then thoſe of your Exemplarie Worth and Virtue,</p>
+            <closer>
+               <salute>Dear and Worthy Sir,</salute>
+               <signed>Your ever moſt Affectionate Servant, <hi>T. T.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:35374:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
